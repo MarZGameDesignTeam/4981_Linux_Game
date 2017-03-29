@@ -34,7 +34,5 @@ bin/
 *.cbp
 *.layout
 
-#my git ignore stuff
-.gitignore
-test/
-map/
+#vim
+*.swp
