@@ -33,3 +33,8 @@ bin/
 #Code::Blocks
 *.cbp
 *.layout
+
+#my git ignore stuff
+.gitignore
+test/
+map/
